@@ -3,7 +3,7 @@
 
 # **Отчёты**
 * ### **ИСР 1.1-1.3** 
-![ИСР 1.1-1.3]([https://decodeit.ru/image.php?type=qr&value=https%3A%2F%2Fgit.herzen.spb.ru%2F201910%2Fpraktos_rgpu_2023_vii_sem%2Fblob%2Fmaster%2FISR_1.1-1.3.pdf](https://github.com/logwinow/ivt-2-3-7/blob/main/%D0%98%D0%A1%D0%A0%201.1-1.3.pdf))
+![ИСР 1.1-1.3](https://decodeit.ru/image.php?type=qr&value=https%3A%2F%2Fgit.herzen.spb.ru%2F201910%2Fpraktos_rgpu_2023_vii_sem%2Fblob%2Fmaster%2FISR_1.1-1.3.pdf)
 * ### **ВСР 2.1-2.3** 
 ![ВСР 2.1-2.3](https://api.qrcode-monkey.com/tmp/14e641e45a3534b4ca658586ccaa810e.svg?1703737884375)
 
