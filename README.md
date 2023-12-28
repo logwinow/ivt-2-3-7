@@ -11,4 +11,4 @@
 ![Задание на практику](https://decodeit.ru/image.php?type=qr&value=https%3A%2F%2Fgithub.com%2Flogwinow%2Fivt-2-3-7%2Fblob%2Fmain%2F%25D0%25B7%25D0%25B0%25D0%25B4%25D0%25B0%25D0%25BD%25D0%25B8%25D0%25B5_%25D0%259D%25D0%2598%25D0%25A0.pdf)
 
 * ### **Отчёт по практике** 
-![Отчёт о практике](https://decodeit.ru/image.php?type=qr&value=https%3A%2F%2Fgit.herzen.spb.ru%2F201910%2Fpraktos_rgpu_2023_vii_sem%2Fblob%2Fmaster%2F%25D0%259E%25D1%2582%25D1%2587%25D1%2591%25D1%2582_%25D0%25BF%25D0%25BE_%25D0%259F%25D1%2580%25D0%25B0%25D0%25BA%25D1%2582%25D0%25B8%25D0%25BA%25D0%25B5.pdf)
+![Отчёт о практике](https://decodeit.ru/image.php?type=qr&value=https%3A%2F%2Fgithub.com%2Flogwinow%2Fivt-2-3-7%2Fblob%2Fmain%2F%25D0%25BE%25D1%2582%25D1%2587%25D0%25B5%25D1%2582_%25D0%259D%25D0%2598%25D0%25A0.pdf)
