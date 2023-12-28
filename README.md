@@ -5,7 +5,7 @@
 * ### **ИСР 1.1-1.3** 
 ![ИСР 1.1-1.3](https://decodeit.ru/image.php?type=qr&value=https%3A%2F%2Fgit.herzen.spb.ru%2F201910%2Fpraktos_rgpu_2023_vii_sem%2Fblob%2Fmaster%2FISR_1.1-1.3.pdf)
 * ### **ВСР 2.1-2.3** 
-![ВСР 2.1-2.3](https://decodeit.ru/image.php?type=qr&value=https%3A%2F%2Fgit.herzen.spb.ru%2F201910%2Fpraktos_rgpu_2023_vii_sem%2Fblob%2Fmaster%2FVSR_2.1-2.3.pdf)
+![ВСР 2.1-2.3]([https://decodeit.ru/image.php?type=qr&value=https%3A%2F%2Fgit.herzen.spb.ru%2F201910%2Fpraktos_rgpu_2023_vii_sem%2Fblob%2Fmaster%2FVSR_2.1-2.3.pdf](https://api.qrcode-monkey.com/tmp/14e641e45a3534b4ca658586ccaa810e.svg?1703737884375))
 
 * ### **Задание на практику** 
 ![Задание на практику](https://decodeit.ru/image.php?type=qr&value=https%3A%2F%2Fgit.herzen.spb.ru%2F201910%2Fpraktos_rgpu_2023_vii_sem%2Fblob%2Fmaster%2F%25D0%2597%25D0%25B0%25D0%25B4%25D0%25B0%25D0%25BD%25D0%25B8%25D0%25B5_%25D0%25BD%25D0%25B0_%25D0%259F%25D1%2580%25D0%25B0%25D0%25BA%25D1%2582%25D0%25B8%25D0%25BA%25D1%2583.pdf)
